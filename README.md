@@ -1,1 +1,3 @@
-# photo-synthesis-system
+# 毕业学生与老师数字人合影系统
+# 项目入口说明文档
+# 详见 frontend/ 和 backend/ 各自目录
